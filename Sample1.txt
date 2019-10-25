@@ -1,2 +1,0 @@
-This has content!
-https://github.com/Melton27/hello-world.git
